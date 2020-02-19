@@ -13,7 +13,7 @@ describe('Hanoi tower', () => {
             expect(calculateHanoi).to.exist;
         });
     });
-    
+
     //Functional requirements
     describe('base requirements', () => {
         it.optional('returns correct answer', () => {
