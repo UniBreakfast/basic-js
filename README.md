@@ -1,11 +1,13 @@
 # BasicJS
 
-⚠️ DO NOT SUBMIT PULL REQUESTS TO THIS REPO ⚠️
+## Rolling Scopes task
 
 ## General task description
 Your task is to write several functions that are the solution to the subtasks. Subtasks descriptions, as well as instructions on how to run tests and submit solutions are below.
 
----
+![image](https://github.com/user-attachments/assets/c1943bfd-0971-4540-a93f-df90ebdbb7e0)
+
+![image](https://github.com/user-attachments/assets/c5f24e57-0c7d-4011-903e-7271ccf64cef)
 
 ### **Count cats!**
 
