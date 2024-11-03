@@ -1,4 +1,4 @@
-# BasicJS
+# [BasicJS](https://github.com/UniBreakfast/basic-js)
 
 ## Rolling Scopes task
 
